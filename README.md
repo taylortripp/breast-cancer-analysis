@@ -1,6 +1,6 @@
 # breast-cancer-tumour-prediction
 
-This repository demonstrates implementation of various machine learning models to predict whether a breast cancer tumour is benign or malignant. The predictive modelling can be found in the Jupyter Notebook.
+This repository demonstrates implementation of various machine learning models to predict whether a breast cancer tumour is benign or malignant. The predictive modelling can be found in the Jupyter Notebook ([`breast_cancer_tumour_prediction.ipynb`](https://github.com/taylortripp/breast-cancer-tumour-prediction/blob/main/breast_cancer_tumour_prediction.ipynb)).
 
 Four different models were used and, subsequently, compared with one another to determine that which had the highest accuracy in labelling a tumour as either benign or malignant. These four models are:
 * Logistic Regression (LR)
